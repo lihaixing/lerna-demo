@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "@lihaixing/lerna-footer",
   "version": "0.0.0",
   "main": "dist/index.js",
   "scripts": {

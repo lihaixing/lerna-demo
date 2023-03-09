@@ -1,5 +1,5 @@
-import {Header} from 'header';
-import {Footer} from 'footer';
+import {Header} from '@lihaixing/lerna-header';
+import {Footer} from '@lihaixing/lerna-footer';
 
 export default function Index() {
     return (
